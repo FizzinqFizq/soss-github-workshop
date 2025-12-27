@@ -36,3 +36,4 @@ This workshop introduces students to using GitHub for academic and professional 
    -> `exercises/collaboration-simulation.md`
 
 This is a small edit to the README.md - learning how to use GitHub for building a potfolio.
+Doing another small change to commit through GitHub Desktop.
